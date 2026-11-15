@@ -1,4 +1,15 @@
 # Regional Pollution Hotspot Profiles from Satellite-Derived Environmental Features
+### 🚀 Live Dashboard
+
+**Explore the deployed application:**  
+https://regional-pollution-hotspot-profiling.streamlit.app
+
+**GitHub Repository:**  
+https://github.com/NARASIMHA045/regional-pollution-hotspot-profiling
+
+### 📸 Dashboard Preview
+
+![Regional Pollution Hotspot Dashboard](screenshots/dashboard.png)
 
 ## 1. Project Overview
 
