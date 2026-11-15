@@ -7,10 +7,19 @@ https://regional-pollution-hotspot-profiling.streamlit.app
 **GitHub Repository:**  
 https://github.com/NARASIMHA045/regional-pollution-hotspot-profiling
 
-### 📸 Dashboard Preview
+## 📸 Dashboard Preview
 
-![Regional Pollution Hotspot Dashboard](screenshots/dashboard.png)
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
+### Regional Cluster Map
+![Regional Cluster Map](screenshots/cluster_map.png)
+
+### AOD vs LST Analysis
+![AOD vs LST Analysis](screenshots/aod_lst_analysis.png)
+
+### Cluster Profiles
+![Cluster Profiles](screenshots/cluster_profiles.png)
 ## 1. Project Overview
 
 This project explores regional environmental patterns using satellite-derived data from the INSAT-3D satellite.
