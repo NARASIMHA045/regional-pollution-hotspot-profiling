@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>FIRE</name>
+    <Placemark>
+      <name>FIRE</name>
+      <address>287.644, 287.644295.168</address>
+      <TimeStamp>
+        <when>18-JUN-2024T16:43:58 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          117.687713623047,3.84457588195801,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FIRE</name>
+      <address>287.644295.168289.37, 287.644295.168289.37300.613</address>
+      <TimeStamp>
+        <when>18-JUN-2024T16:41:48 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          28.6329727172852,-5.26212549209595,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FIRE</name>
+      <address>287.644295.168289.37300.613289.833, 287.644295.168289.37300.613289.833298.611</address>
+      <TimeStamp>
+        <when>18-JUN-2024T16:41:47 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          26.1610527038574,-5.41419076919556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>

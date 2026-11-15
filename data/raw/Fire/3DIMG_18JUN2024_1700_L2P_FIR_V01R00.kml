@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>FIRE</name>
+    <Placemark>
+      <name>FIRE</name>
+      <address>291.752, 291.752298.781</address>
+      <TimeStamp>
+        <when>18-JUN-2024T17:13:55 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          45.3686485290527,3.58698654174805,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FIRE</name>
+      <address>291.752298.781289.616, 291.752298.781289.616299.864</address>
+      <TimeStamp>
+        <when>18-JUN-2024T17:11:57 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          25.9187469482422,-4.78288125991821,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FIRE</name>
+      <address>291.752298.781289.616299.864288.681, 291.752298.781289.616299.864288.681302.369</address>
+      <TimeStamp>
+        <when>18-JUN-2024T17:11:50 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          28.7199821472168,-5.22157573699951,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FIRE</name>
+      <address>291.752298.781289.616299.864288.681302.369288.994, 291.752298.781289.616299.864288.681302.369288.994304.085</address>
+      <TimeStamp>
+        <when>18-JUN-2024T17:11:49 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          28.6329727172852,-5.26212549209595,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FIRE</name>
+      <address>291.752298.781289.616299.864288.681302.369288.994304.085288.681, 291.752298.781289.616299.864288.681302.369288.994304.085288.681312.283</address>
+      <TimeStamp>
+        <when>18-JUN-2024T17:11:49 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          28.7135334014893,-5.26106119155884,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FIRE</name>
+      <address>291.752298.781289.616299.864288.681302.369288.994304.085288.681312.283288.681, 291.752298.781289.616299.864288.681302.369288.994304.085288.681312.283288.681302.25</address>
+      <TimeStamp>
+        <when>18-JUN-2024T17:11:49 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          28.70703125,-5.3005518913269,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FIRE</name>
+      <address>291.752298.781289.616299.864288.681302.369288.994304.085288.681312.283288.681302.25290.539, 291.752298.781289.616299.864288.681302.369288.994304.085288.681312.283288.681302.25290.539297.935</address>
+      <TimeStamp>
+        <when>18-JUN-2024T17:11:27 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          27.1402702331543,-6.94658660888672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>

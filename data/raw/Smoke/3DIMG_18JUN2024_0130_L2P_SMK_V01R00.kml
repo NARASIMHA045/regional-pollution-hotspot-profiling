@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>SMK</name>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:51:44 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          99.5161285400391,39.3798637390137,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:50:20 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          70.2538986206055,31.6596412658691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:50:18 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          70.4603118896484,31.468879699707,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:50:12 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          71.7669296264648,30.9792537689209,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:50:12 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          71.6843643188477,30.9347610473633,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:50:12 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          71.4251403808594,30.8937644958496,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:50:09 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          71.1457290649414,30.6695423126221,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:50:09 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          70.6657180786133,30.6335220336914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:50:08 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          70.6719741821289,30.5875492095947,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:50:05 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          70.5389633178711,30.2703456878662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:50:04 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          70.5513534545898,30.1789512634277,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:50:02 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          70.4694671630859,30.1351413726807,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:49:56 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          72.4135055541992,29.5545673370361,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:49:55 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          72.3801574707031,29.4650440216064,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:49:44 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          81.0805053710938,28.4463233947754,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:49:43 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          77.7346115112305,28.3729438781738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:49:42 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          80.7484588623047,28.2700519561768,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMOKE</name>
+      <TimeStamp>
+        <when>18-JUN-2024T01:49:37 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          80.6700286865234,27.9177684783936,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>

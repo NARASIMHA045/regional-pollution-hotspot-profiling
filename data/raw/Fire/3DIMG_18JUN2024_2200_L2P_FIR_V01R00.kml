@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>FIRE</name>
+    <Placemark>
+      <name>FIRE</name>
+      <address>289.348, 289.348298.97</address>
+      <TimeStamp>
+        <when>18-JUN-2024T22:14:18 UTC</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>
+          102.58024597168,4.96826028823853,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>

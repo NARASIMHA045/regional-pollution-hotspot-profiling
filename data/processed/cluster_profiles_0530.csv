@@ -1,0 +1,5 @@
+AOD_mean,AOD_mean,AOD_mean,LST_mean,LST_mean,LST_mean,Rainfall_mean,Rainfall_mean,Rainfall_mean,Rainfall_positive_pct,Rainfall_positive_pct,Rainfall_positive_pct,Smoke_count,Smoke_count,Smoke_count,Fire_count,Fire_count,Fire_count
+mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std
+1.3029,1.2165,0.4195,320.2201,321.6117,6.8261,0.0001,0.0,0.0006,0.1668,0.0,1.365,0.0,0.0,0.0,0.0,0.0,0.0
+0.3686,0.3163,0.2205,307.9223,308.623,4.0635,0.0,0.0,0.0,0.0044,0.0,0.0601,0.0476,0.0,0.3759,0.0,0.0,0.0
+0.4406,0.4294,0.1838,317.9759,317.6173,3.4697,0.0,0.0,0.0,0.0,0.0,0.0,0.0057,0.0,0.0758,0.0115,0.0,0.1516
